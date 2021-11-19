@@ -1,10 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="brown">#964B00</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="cyan">#00B7EB</color>
+    <color name="lime">#00FF00</color>
+    <color name="skyBlue">#87CEEB</color>
+    <color name="teal">#008080</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="burgundy">#800020</color>
+    <color name="maroon">#800000</color>
+    <color name="tan">#D2B48C</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="navyBlue">#000080</color>
+    <color name="vanilla">#F3E5AB</color>
+    <color name="lavender">#B57EDC</color>
+    <color name="violet">#7F00FF</color>
+    <color name="indigo">#4B0082</color>
+    <color name="coral">#FF7F50</color>
+    <color name="coralPink">#F88379</color>
+    <color name="gold">#D4AF37</color>
+    <color name="lemon">#FFF700</color>
+    <color name="lilac">#C8A2C8</color>
+    <color name="mint">#3EB489</color>
+    <color name="mintGreen">#98FF98</color>
+    <color name="cream">#98FF98</color>
+    <color name="copper">#B87333</color>
+    <color name="crimson">#DC143C</color>
+    <color name="flamingo">#FC74FD</color>
+    <color name="plum">#8E4585</color>
+    <color name="raspberry">#E30B5D</color>
+    <color name="sapphire">#0F52BA</color>
+
+    <color name="lightRed">#FF7F7F</color>
+    <color name="lightOrange">#FFD580</color>
+    <color name="lightYellow">#FFFFE0</color>
+    <color name="lightGreen">#90EE90</color>
+    <color name="lightBlue">#ADD8E6</color>
+    <color name="lightPurple">#CBC3E3</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="lightPink">#FFB6C1</color>
+    <color name="lightBrown">#C89D7C</color>
+    <color name="lightCyan">#E0FFFF</color>
+    <color name="lightCoral">#F08080</color>
+
+    <color name="darkRed">#8B0000</color>
+    <color name="darkOrange">#FF8C00</color>
+    <color name="darkGreen">#006400</color>
+    <color name="darkBlue">#00008B</color>
+    <color name="darkPurple">#301934</color>
+    <color name="darkCyan">#008B8B</color>
+    <color name="darkTurquoise">#00CED1</color>
+    <color name="darkBrown">#5C4033</color>
+    <color name="darkMagenta">#8B008B</color>
+    <color name="darkViolet">#9400D3</color>
+
+    <color name="pastelRed">#ff6961</color>
+    <color name="pastelOrange">#ff694f</color>
+    <color name="pastelYellow">#FDFD96</color>
+    <color name="pastelGreen">#77dd77</color>
+    <color name="pastelBlue">#89cff0</color>
+    <color name="pastelPurple">#ca9bf7</color>
+    <color name="pastelBrown">#836953</color>
+    <color name="pastelGray">#cfcfc4</color>
+    <color name="pastelPink">#ffb7ce</color>
+
+    <color name="hotPink">#FF69B4</color>
+    <color name="hotMagenta">#FF1DCE</color>
 </resources>
