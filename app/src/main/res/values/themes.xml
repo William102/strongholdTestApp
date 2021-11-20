@@ -2,13 +2,15 @@
     <!-- Base application theme. -->
     <style name="Theme.StrongholdTestApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/pastelPurple</item>
-        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/cream</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/lightBrown</item>
-        <item name="colorSecondaryVariant">@color/brown</item>
+        <item name="colorSecondary">@color/pastelPurple</item>
+        <item name="colorSecondaryVariant">@color/lavender</item>
         <item name="colorOnSecondary">@color/black</item>
+
+        <item name="buttonTint">@color/pastelBlue</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
