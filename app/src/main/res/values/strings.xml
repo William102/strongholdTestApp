@@ -12,5 +12,5 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="add_event_tab_name">Add</string>
     <string name="past_events_tab_name">Past</string>
-    <string name="events_tab_name">Current</string>
+    <string name="events_tab_name">Events</string>
 </resources>

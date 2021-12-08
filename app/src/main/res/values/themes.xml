@@ -6,8 +6,8 @@
         <item name="colorPrimaryVariant">@color/lavender</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/mintGreen</item>
-        <item name="colorSecondaryVariant">@color/pastelGreen</item>
+        <item name="colorSecondary">@color/lightCornflowerBlue</item>
+        <item name="colorSecondaryVariant">@color/pastelBlue</item>
         <item name="colorOnSecondary">@color/black</item>
 
         <item name="buttonTint">@color/pastelBlue</item>
