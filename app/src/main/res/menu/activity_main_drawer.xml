@@ -8,5 +8,14 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/icon_events_nav"
             android:title="@string/menu_events" />
+        <item
+            android:id="@+id/sidebar_scouting"
+            android:icon="@drawable/icon_scouting"
+            android:title="@string/sidebar_scouting" />
+        <item
+            android:id="@+id/sidebar_teams"
+            android:icon="@drawable/icon_teams"
+            android:title="@string/sidebar_teams" />
+
     </group>
 </menu>
