@@ -16,4 +16,5 @@
     <string name="sidebar_scouting">Scouting</string>
     <string name="sidebar_teams">Teams</string>
     <string name="sidebar_rankings">Rankings</string>
+    <string name="team_selection_question">Team Selection</string>
 </resources>
