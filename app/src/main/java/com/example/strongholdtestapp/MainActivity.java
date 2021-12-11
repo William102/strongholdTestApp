@@ -5,6 +5,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.Window;
 
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -40,12 +41,20 @@ public class MainActivity extends AppCompatActivity {
 
          */
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home)
+                R.id.nav_home,
+                R.id.sidebar_scouting,
+                R.id.sidebar_teams,
+                R.id.pastEvents,
+                R.id.Events,
+                R.id.addEvent)
                 .setOpenableLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
+
+        BottomNavigationView eventsBar = findViewById(R.id.events_bar);
+        NavigationUI.setupWithNavController(eventsBar, navController);
     }
 
     @Override

@@ -16,5 +16,13 @@
     <string name="sidebar_scouting">Scouting</string>
     <string name="sidebar_teams">Teams</string>
     <string name="sidebar_rankings">Rankings</string>
+<<<<<<< Updated upstream
     <string name="team_selection_question">Team Selection</string>
+=======
+    <string name="event_name">Event Name</string>
+    <string name="add_event">Add Event</string>
+    <string name="start_event">Start Date</string>
+    <string name="end_event">End Date</string>
+    <string name="add">Add</string>
+>>>>>>> Stashed changes
 </resources>
